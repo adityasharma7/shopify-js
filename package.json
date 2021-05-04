@@ -1,0 +1,30 @@
+{
+  "name": "shopify-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc --declaration",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityasharma7/shopify-js.git"
+  },
+  "keywords": [
+    "shopify"
+  ],
+  "author": "Aditya Sharma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/adityasharma7/shopify-js/issues"
+  },
+  "homepage": "https://github.com/adityasharma7/shopify-js#readme",
+  "dependencies": {
+    "@shopify/app-bridge": "^1.30.0",
+    "crypto-es": "^1.2.7"
+  }
+}

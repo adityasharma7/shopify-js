@@ -1,1 +1,1 @@
-# shopify-js
+# shopify-util
